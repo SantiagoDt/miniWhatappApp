@@ -12,6 +12,8 @@ import javax.swing.JOptionPane;
 public class MiniWhatappApp {
 
     public static void main(String[] args) {
+        
+        System.out.println("Añadimos un nuevo cambio para imprimir un menú");
         boolean salir = false;
         int contador = 0;
         int contador_men = 0;
